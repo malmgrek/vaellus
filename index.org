@@ -51,6 +51,7 @@
 - Riisisuklaata
 - Puuroa
 - Pikakahvia
+- Juotavaa iltanuotiolle
 * Tekstiilit
 ** Jalkineet
 - Hyvät kengät
@@ -59,8 +60,9 @@
 ** Vaatteet
 - Kuiva vaatekerta varalle
 - Alushousuja
-- Sadesuoja
 - Päähine
+- Sadetakki
+- Sateenvarjo
 ** Leiriytyminen
 - Makuupussi
 - Makuualusta
