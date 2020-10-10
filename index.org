@@ -1,0 +1,49 @@
+#+TITLE: Muistilista
+
+* Rinkka
+* Työkalut
+- Puukko
+- Linkkuveitsi
+- Narua
+- Teippiä
+- Tulentekovälineet
+* Tarvike-esineet
+- Ruokailuastia
+- Lusikka ja haarukka
+- Kahvikuppi
+- Juomapullo
+- Retkikeitin ja polttoaine
+** Ruokailu
+- Ruoka-astia
+- Lusikka
+- Haarukka
+** Juominen
+- Juomapullo
+- Vedenpuhdistin
+** Ruoan valmistaminen
+- Retkikeitin
+** Hygienia
+- Laastaria
+- Desinfiointiainetta
+- WC-paperia
+- Kosteuspyyhkeitä
+- Rakkolaastari
+- Saippuaa
+- Shampoota
+- Deodoranttia
+* Tekstiilit
+** Jalat
+- Hyvät kengät
+- Sukkia
+- Taukokengät (esim. "Crocs")
+** Vaatteet
+- Kuiva vaatekerta varalle
+- Alushousuja
+- Sadesuoja
+** Leiriytyminen
+- Makuupussi
+- Makuualusta
+- Teltta
+- Istuma-alusta (esim. vaahtomuovinen)
+** Peseytyminen
+- Pyyhe
