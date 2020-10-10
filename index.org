@@ -1,18 +1,24 @@
 #+TITLE: Muistilista
 
 * Rinkka
+- Sateensuoja
 * Työkalut
 - Puukko
 - Linkkuveitsi
 - Narua
 - Teippiä
 - Tulentekovälineet
+- Sytytysneste
 * Tarvike-esineet
 - Ruokailuastia
 - Lusikka ja haarukka
 - Kahvikuppi
 - Juomapullo
 - Retkikeitin ja polttoaine
+- Taskulamppu ja varaparisto
+- Virtapankki
+- Kartta
+- Roskapussi
 ** Ruokailu
 - Ruoka-astia
 - Lusikka
@@ -31,6 +37,9 @@
 - Saippuaa
 - Shampoota
 - Deodoranttia
+- Tiskiharja
+- Tiskiaine
+- Hammasharja ja -tahna
 * Tekstiilit
 ** Jalat
 - Hyvät kengät
