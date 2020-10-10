@@ -2,69 +2,70 @@
 
 * Rinkka
 - Sateensuoja
-* Työkalut
-- Puukko
-- Linkkuveitsi
-- Narua
-- Teippiä
-- Tulentekovälineet
-- Sytytysneste
 * Tarvike-esineet
-- Retkikeitin ja polttoaine
-- Taskulamppu ja varaparisto
-- Virtapankki ja latausjohto
-- Kartta
-- Roskapussi
-** Ruokailu
-- Ruoka-astia
-- Lusikka
-- Haarukka
+** Hygienia
+- Deodoranttia
+- Desinfiointiainetta
+- Hammasharja ja -tahna
+- Kosteuspyyhkeitä
+- Saippuaa
+- Tiskiaine
+- Tiskiharja
+- WC-paperia
+** Lääkintä
+- Hirvikärpäs- ja punkkikarkoite
+- Laastaria
+- Rakkolaastari
+- Särkylääke
 ** Juominen
 - Juomapullo
 - Vedenpuhdistin
-** Ruoan valmistaminen
-- Retkikeitin
-- Kahvipannu
-- Kahvikuppi
-** Lääkintä
-- Laastaria
-- Hirvikärpäs- ja punkkikarkoite
-- Särkylääke
-- Rakkolaastari
-** Hygienia
-- Desinfiointiainetta
-- WC-paperia
-- Kosteuspyyhkeitä
-- Saippuaa
-- Deodoranttia
-- Tiskiharja
-- Tiskiaine
-- Hammasharja ja -tahna
-** Ruoka-aineita
-- Näkkileipää
-- Salamimakkaraa
-- Pähkinöitä
-- Kuivattuja hedelmiä
+** Ravinto-aineita
 - Digestive-keksejä
-- Riisisuklaata
-- Puuroa
+- Kuivattuja hedelmiä
+- Näkkileipää
 - Pikakahvia
-- Juotavaa iltanuotiolle
+- Puuroa
+- Pähkinöitä
+- Riisisuklaata
+- Salamimakkaraa
+- Urheilujuomajauhe
+** Ruoan valmistaminen
+- Kahvikuppi
+- Kahvipannu
+- Retkikeitin ja polttoaine
+** Ruokailu
+- Haarukka
+- Lusikka
+- Ruoka-astia
+** Sekalaista
+- Kartta
+- Roskapussi
+- Taskulamppu ja varaparisto
+- Virtapankki ja latausjohto
+** Työkalut
+- Linkkuveitsi
+- Narua
+- Puukko
+- Sytytysneste
+- Teippiä
+- Tulentekovälineet
 * Tekstiilit
 ** Jalkineet
 - Hyvät kengät
 - Sukkia
 - Taukokengät (esim. "Crocs")
+** Leiriytyminen
+- Istuma-alusta (esim. vaahtomuovinen)
+- Makuualusta (ilmatäyttöinen)
+- Makuupussi
+- Matkatyyny
+- Teltta
+** Peseytyminen
+- Pyyhe
 ** Vaatteet
-- Kuiva vaatekerta varalle
 - Alushousuja
+- Kuiva vaatekerta varalle
 - Päähine
 - Sadetakki
 - Sateenvarjo
-** Leiriytyminen
-- Makuupussi
-- Makuualusta
-- Teltta
-- Istuma-alusta (esim. vaahtomuovinen)
-** Peseytyminen
-- Pyyhe
