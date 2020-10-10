@@ -10,13 +10,9 @@
 - Tulentekovälineet
 - Sytytysneste
 * Tarvike-esineet
-- Ruokailuastia
-- Lusikka ja haarukka
-- Kahvikuppi
-- Juomapullo
 - Retkikeitin ja polttoaine
 - Taskulamppu ja varaparisto
-- Virtapankki
+- Virtapankki ja latausjohto
 - Kartta
 - Roskapussi
 ** Ruokailu
@@ -29,19 +25,21 @@
 ** Ruoan valmistaminen
 - Retkikeitin
 - Kahvipannu
-** Hygienia
+- Kahvikuppi
+** Lääkintä
 - Laastaria
+- Hirvikärpäs- ja punkkikarkoite
+- Särkylääke
+- Rakkolaastari
+** Hygienia
 - Desinfiointiainetta
 - WC-paperia
 - Kosteuspyyhkeitä
-- Rakkolaastari
 - Saippuaa
-- Shampoota
 - Deodoranttia
 - Tiskiharja
 - Tiskiaine
 - Hammasharja ja -tahna
-- Hirvikärpäs- ja punkkikarkoite
 ** Ruoka-aineita
 - Näkkileipää
 - Salamimakkaraa
