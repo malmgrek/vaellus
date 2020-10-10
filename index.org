@@ -28,6 +28,7 @@
 - Vedenpuhdistin
 ** Ruoan valmistaminen
 - Retkikeitin
+- Kahvipannu
 ** Hygienia
 - Laastaria
 - Desinfiointiainetta
@@ -40,8 +41,18 @@
 - Tiskiharja
 - Tiskiaine
 - Hammasharja ja -tahna
+- Hirvikärpäs- ja punkkikarkoite
+** Ruoka-aineita
+- Näkkileipää
+- Salamimakkaraa
+- Pähkinöitä
+- Kuivattuja hedelmiä
+- Digestive-keksejä
+- Riisisuklaata
+- Puuroa
+- Pikakahvia
 * Tekstiilit
-** Jalat
+** Jalkineet
 - Hyvät kengät
 - Sukkia
 - Taukokengät (esim. "Crocs")
@@ -49,6 +60,7 @@
 - Kuiva vaatekerta varalle
 - Alushousuja
 - Sadesuoja
+- Päähine
 ** Leiriytyminen
 - Makuupussi
 - Makuualusta
