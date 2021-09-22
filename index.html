@@ -3,14 +3,14 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-10-10 Sat 22:24 -->
+<!-- 2021-09-22 Wed 15:30 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Matkatavarat vaellukselle</title>
-<meta name="generator" content="Org mode" />
 <meta name="author" content="Stratos Staboulis" />
-<style type="text/css">
- <!--/*--><![CDATA[/*><!--*/
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
   .title  { text-align: center;
              margin-bottom: .2em; }
   .subtitle { text-align: center;
@@ -31,8 +31,9 @@
   #postamble p, #preamble p { font-size: 90%; margin: .2em; }
   p.verse { margin-left: 3%; }
   pre {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
     padding: 8pt;
     font-family: monospace;
     overflow: auto;
@@ -40,22 +41,22 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
-    padding-top: 1.2em;
+    overflow: auto;
   }
   pre.src:before {
     display: none;
     position: absolute;
-    background-color: white;
-    top: -10px;
-    right: 10px;
+    top: -8px;
+    right: 12px;
     padding: 3px;
-    border: 1px solid black;
+    color: #555;
+    background-color: #f2f2f299;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
   pre.src-C:before { content: 'C'; }
   /* pre.src-C++ doesn't work in CSS */
   pre.src-clojure:before { content: 'Clojure'; }
@@ -191,76 +192,51 @@
   .org-info-js_search-highlight
     { background-color: #ffff00; color: #000000; font-weight: bold; }
   .org-svg { width: 90%; }
-  /*]]>*/-->
 </style>
-<script type="text/javascript">
-// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
-<!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.cacheClassElem = elem.className;
-         elem.cacheClassTarget = target.className;
-         target.className = "code-highlighted";
-         elem.className   = "code-highlighted";
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(elem.cacheClassElem)
-         elem.className = elem.cacheClassElem;
-       if(elem.cacheClassTarget)
-         target.className = elem.cacheClassTarget;
-     }
-    /*]]>*///-->
-// @license-end
-</script>
 </head>
 <body>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">Matkatavarat vaellukselle</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgb1d9839">1. Elintarvikkeita</a>
+<li><a href="#org6eb6f96">1. Elintarvikkeita</a>
 <ul>
-<li><a href="#orgf257f4a">1.1. Juomat</a></li>
-<li><a href="#org9175623">1.2. Ruoat</a></li>
+<li><a href="#orgfccc751">1.1. Juomat</a></li>
+<li><a href="#org5a6c367">1.2. Ruoat</a></li>
 </ul>
 </li>
-<li><a href="#org7d4b3d8">2. Rinkka</a></li>
-<li><a href="#org3f067f9">3. Tarvike-esineet</a>
+<li><a href="#org0b6b41d">2. Rinkka</a></li>
+<li><a href="#orgf5f4276">3. Tarvikkeet</a>
 <ul>
-<li><a href="#orgf86f511">3.1. Hygienia</a></li>
-<li><a href="#org2f7522f">3.2. Lääkintä</a></li>
-<li><a href="#orgac7d9cb">3.3. Juominen</a></li>
-<li><a href="#orgd8f08b8">3.4. Ruoan valmistaminen</a></li>
-<li><a href="#orge9efd76">3.5. Ruokailu</a></li>
-<li><a href="#orgc94b58f">3.6. Sekalaista</a></li>
-<li><a href="#orged2677f">3.7. Työkalut</a></li>
+<li><a href="#org6a42522">3.1. Hygienia</a></li>
+<li><a href="#orgf0d9ced">3.2. Lääkintä</a></li>
+<li><a href="#org415305e">3.3. Juominen</a></li>
+<li><a href="#org3fea781">3.4. Ruoan valmistaminen</a></li>
+<li><a href="#org3835b86">3.5. Ruokailu</a></li>
+<li><a href="#org449dd0c">3.6. Sekalaista</a></li>
+<li><a href="#orge1881f6">3.7. Työkalut</a></li>
 </ul>
 </li>
-<li><a href="#org47fde79">4. Tekstiilit</a>
+<li><a href="#org0018464">4. Tekstiilit</a>
 <ul>
-<li><a href="#orgd35ef88">4.1. Jalkineet</a></li>
-<li><a href="#org95edfba">4.2. Leiriytyminen</a></li>
-<li><a href="#orgaa03197">4.3. Peseytyminen</a></li>
-<li><a href="#org43d7989">4.4. Vaatteet</a></li>
+<li><a href="#orga64def6">4.1. Jalkineet</a></li>
+<li><a href="#orgf443a9c">4.2. Leiriytyminen</a></li>
+<li><a href="#org491d5e9">4.3. Peseytyminen</a></li>
+<li><a href="#orgd4e2135">4.4. Vaatteet</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgb1d9839" class="outline-2">
-<h2 id="orgb1d9839"><span class="section-number-2">1</span> Elintarvikkeita</h2>
+<div id="outline-container-org6eb6f96" class="outline-2">
+<h2 id="org6eb6f96"><span class="section-number-2">1.</span> Elintarvikkeita</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-orgf257f4a" class="outline-3">
-<h3 id="orgf257f4a"><span class="section-number-3">1.1</span> Juomat</h3>
+<div id="outline-container-orgfccc751" class="outline-3">
+<h3 id="orgfccc751"><span class="section-number-3">1.1.</span> Juomat</h3>
 <div class="outline-text-3" id="text-1-1">
 <ul class="org-ul">
 <li>Pikakahvia</li>
@@ -268,8 +244,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org9175623" class="outline-3">
-<h3 id="org9175623"><span class="section-number-3">1.2</span> Ruoat</h3>
+<div id="outline-container-org5a6c367" class="outline-3">
+<h3 id="org5a6c367"><span class="section-number-3">1.2.</span> Ruoat</h3>
 <div class="outline-text-3" id="text-1-2">
 <ul class="org-ul">
 <li>Digestive-keksejä</li>
@@ -285,20 +261,20 @@
 </div>
 </div>
 </div>
-<div id="outline-container-org7d4b3d8" class="outline-2">
-<h2 id="org7d4b3d8"><span class="section-number-2">2</span> Rinkka</h2>
+<div id="outline-container-org0b6b41d" class="outline-2">
+<h2 id="org0b6b41d"><span class="section-number-2">2.</span> Rinkka</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li>Sateensuoja</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3f067f9" class="outline-2">
-<h2 id="org3f067f9"><span class="section-number-2">3</span> Tarvike-esineet</h2>
+<div id="outline-container-orgf5f4276" class="outline-2">
+<h2 id="orgf5f4276"><span class="section-number-2">3.</span> Tarvikkeet</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-orgf86f511" class="outline-3">
-<h3 id="orgf86f511"><span class="section-number-3">3.1</span> Hygienia</h3>
+<div id="outline-container-org6a42522" class="outline-3">
+<h3 id="org6a42522"><span class="section-number-3">3.1.</span> Hygienia</h3>
 <div class="outline-text-3" id="text-3-1">
 <ul class="org-ul">
 <li>Deodoranttia</li>
@@ -312,8 +288,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org2f7522f" class="outline-3">
-<h3 id="org2f7522f"><span class="section-number-3">3.2</span> Lääkintä</h3>
+<div id="outline-container-orgf0d9ced" class="outline-3">
+<h3 id="orgf0d9ced"><span class="section-number-3">3.2.</span> Lääkintä</h3>
 <div class="outline-text-3" id="text-3-2">
 <ul class="org-ul">
 <li>Hirvikärpäs- ja punkkikarkoite</li>
@@ -323,17 +299,21 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgac7d9cb" class="outline-3">
-<h3 id="orgac7d9cb"><span class="section-number-3">3.3</span> Juominen</h3>
+<div id="outline-container-org415305e" class="outline-3">
+<h3 id="org415305e"><span class="section-number-3">3.3.</span> Juominen</h3>
 <div class="outline-text-3" id="text-3-3">
 <ul class="org-ul">
 <li>Juomapullo</li>
 <li>Vedenpuhdistin</li>
+<li>Termospullo
+<ul class="org-ul">
+<li>Tarpeellinen keittämällä puhdistetun veden säilytykseen</li>
+</ul></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd8f08b8" class="outline-3">
-<h3 id="orgd8f08b8"><span class="section-number-3">3.4</span> Ruoan valmistaminen</h3>
+<div id="outline-container-org3fea781" class="outline-3">
+<h3 id="org3fea781"><span class="section-number-3">3.4.</span> Ruoan valmistaminen</h3>
 <div class="outline-text-3" id="text-3-4">
 <ul class="org-ul">
 <li>Kahvikuppi</li>
@@ -342,8 +322,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orge9efd76" class="outline-3">
-<h3 id="orge9efd76"><span class="section-number-3">3.5</span> Ruokailu</h3>
+<div id="outline-container-org3835b86" class="outline-3">
+<h3 id="org3835b86"><span class="section-number-3">3.5.</span> Ruokailu</h3>
 <div class="outline-text-3" id="text-3-5">
 <ul class="org-ul">
 <li>Haarukka</li>
@@ -352,8 +332,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc94b58f" class="outline-3">
-<h3 id="orgc94b58f"><span class="section-number-3">3.6</span> Sekalaista</h3>
+<div id="outline-container-org449dd0c" class="outline-3">
+<h3 id="org449dd0c"><span class="section-number-3">3.6.</span> Sekalaista</h3>
 <div class="outline-text-3" id="text-3-6">
 <ul class="org-ul">
 <li>Aurinkolasit</li>
@@ -365,8 +345,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orged2677f" class="outline-3">
-<h3 id="orged2677f"><span class="section-number-3">3.7</span> Työkalut</h3>
+<div id="outline-container-orge1881f6" class="outline-3">
+<h3 id="orge1881f6"><span class="section-number-3">3.7.</span> Työkalut</h3>
 <div class="outline-text-3" id="text-3-7">
 <ul class="org-ul">
 <li>Linkkuveitsi</li>
@@ -379,12 +359,12 @@
 </div>
 </div>
 </div>
-<div id="outline-container-org47fde79" class="outline-2">
-<h2 id="org47fde79"><span class="section-number-2">4</span> Tekstiilit</h2>
+<div id="outline-container-org0018464" class="outline-2">
+<h2 id="org0018464"><span class="section-number-2">4.</span> Tekstiilit</h2>
 <div class="outline-text-2" id="text-4">
 </div>
-<div id="outline-container-orgd35ef88" class="outline-3">
-<h3 id="orgd35ef88"><span class="section-number-3">4.1</span> Jalkineet</h3>
+<div id="outline-container-orga64def6" class="outline-3">
+<h3 id="orga64def6"><span class="section-number-3">4.1.</span> Jalkineet</h3>
 <div class="outline-text-3" id="text-4-1">
 <ul class="org-ul">
 <li>Hyvät kengät</li>
@@ -393,8 +373,8 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org95edfba" class="outline-3">
-<h3 id="org95edfba"><span class="section-number-3">4.2</span> Leiriytyminen</h3>
+<div id="outline-container-orgf443a9c" class="outline-3">
+<h3 id="orgf443a9c"><span class="section-number-3">4.2.</span> Leiriytyminen</h3>
 <div class="outline-text-3" id="text-4-2">
 <ul class="org-ul">
 <li>Istuma-alusta (esim. vaahtomuovinen)</li>
@@ -405,16 +385,16 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-orgaa03197" class="outline-3">
-<h3 id="orgaa03197"><span class="section-number-3">4.3</span> Peseytyminen</h3>
+<div id="outline-container-org491d5e9" class="outline-3">
+<h3 id="org491d5e9"><span class="section-number-3">4.3.</span> Peseytyminen</h3>
 <div class="outline-text-3" id="text-4-3">
 <ul class="org-ul">
 <li>Pyyhe</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org43d7989" class="outline-3">
-<h3 id="org43d7989"><span class="section-number-3">4.4</span> Vaatteet</h3>
+<div id="outline-container-orgd4e2135" class="outline-3">
+<h3 id="orgd4e2135"><span class="section-number-3">4.4.</span> Vaatteet</h3>
 <div class="outline-text-3" id="text-4-4">
 <ul class="org-ul">
 <li>Boksereita</li>
@@ -434,7 +414,7 @@
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Stratos Staboulis</p>
-<p class="date">Created: 2020-10-10 Sat 22:24</p>
+<p class="date">Created: 2021-09-22 Wed 15:30</p>
 </div>
 </body>
 </html>

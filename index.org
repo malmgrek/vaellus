@@ -16,7 +16,7 @@
 - Salamimakkaraa
 * Rinkka
 - Sateensuoja
-* Tarvike-esineet
+* Tarvikkeet
 ** Hygienia
 - Deodoranttia
 - Desinfiointiainetta
@@ -34,6 +34,8 @@
 ** Juominen
 - Juomapullo
 - Vedenpuhdistin
+- Termospullo
+  + Tarpeellinen keittämällä puhdistetun veden säilytykseen
 ** Ruoan valmistaminen
 - Kahvikuppi
 - Kahvipannu
