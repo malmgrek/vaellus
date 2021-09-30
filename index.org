@@ -4,6 +4,7 @@
 ** Juomat
 - Pikakahvia
 - Urheilujuomajauhe
+- Irtotee ja suodatin
 ** Ruoat
 - Digestive-keksejä
 - Kuivattuja hedelmiä
@@ -56,6 +57,7 @@
 - Naru
 - Puukko
 - Sytytysneste
+- Kaasupatruuna
 - Teippiä
 - Tulentekovälineet
 * Tekstiilit
@@ -76,9 +78,12 @@
 - Fleecepusero
 - Hanskat
 - Pitkät kalsarit
-- Päähine
+- Pipo
+- Auringolta suojaava päähine
 - Sadetakki tai -viitta
 - Shortsit
 - Takki
+  + Talvi: untuvatakki
+  + Kesä: Kuoritakki
 - T-paita (2 kpl tekninen)
 - Verryttelyhousut
