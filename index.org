@@ -33,7 +33,7 @@
 - Rakkolaastari
 - Särkylääke
 ** Juominen
-- Juomapullo
+- Juomarakko
 - Vedenpuhdistin
 - Termospullo
   + Tarpeellinen keittämällä puhdistetun veden säilytykseen
