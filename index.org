@@ -1,89 +1,88 @@
-#+TITLE: Matkatavarat vaellukselle
+#+TITLE: Matkatavarat vaellukselle muistilista
 
 * Elintarvikkeita
 ** Juomat
-- Pikakahvia
-- Urheilujuomajauhe
-- Irtotee ja suodatin
+- [ ] Pikakahvia
+- [ ] Urheilujuomajauhe
+- [ ] Irtotee ja suodatin
 ** Ruoat
-- Digestive-keksejä
-- Kuivattuja hedelmiä
-- Makeisia
-- Nuudeleita
-- Näkkileipää
-- Puuroa
-- Pähkinöitä
-- Riisisuklaata
-- Salamimakkaraa
+- [ ] Digestive-keksejä
+- [ ] Kuivattuja hedelmiä
+- [ ] Makeisia
+- [ ] Nuudeleita
+- [ ] Näkkileipää
+- [ ] Puuroa
+- [ ] Pähkinöitä
+- [ ] Riisisuklaata
+- [ ] Salamimakkaraa
 * Rinkka
-- Sateensuoja
+- [ ] Sateensuoja
 * Tarvikkeet
 ** Hygienia
-- Deodoranttia
-- Desinfiointiainetta
-- Hammasharja ja -tahna
-- Kosteuspyyhkeitä
-- Saippuaa
-- Tiskiaine
-- Tiskiharja
-- WC-paperia
+- [ ] Deodoranttia
+- [ ] Desinfiointiainetta
+- [ ] Hammasharja ja -tahna
+- [ ] Kosteuspyyhkeitä
+- [ ] Saippuaa
+- [ ] Tiskiaine
+- [ ] Tiskiharja
+- [ ] WC-paperia
 ** Lääkintä
-- Hirvikärpäs- ja punkkikarkoite
-- Laastaria
-- Rakkolaastari
-- Särkylääke
+- [ ] Hirvikärpäs- ja punkkikarkoite
+- [ ] Laastaria
+- [ ] Rakkolaastari
+- [ ] Särkylääke
 ** Juominen
-- Juomarakko
-- Vedenpuhdistin
-- Termospullo
-  + Tarpeellinen keittämällä puhdistetun veden säilytykseen
+- [ ] Juomarakko
+- [ ] Vedenpuhdistin
+- [ ] Termospullo
 ** Ruoan valmistaminen
-- Kahvikuppi
-- Kahvipannu
-- Retkikeitin ja polttoaine
+- [ ] Kahvikuppi
+- [ ] Kahvipannu
+- [ ] Retkikeitin ja polttoaine
 ** Ruokailu
-- Haarukka
-- Lusikka
-- Ruoka-astia
+- [ ] Haarukka
+- [ ] Lusikka
+- [ ] Ruoka-astia
 ** Sekalaista
-- Aurinkolasit
-- Kartta
-- Latausjohto
-- Roskapussi
-- Taskulamppu ja varaparisto
-- Virtapankki
+- [ ] Aurinkolasit
+- [ ] Kartta
+- [ ] Latausjohto
+- [ ] Roskapussi
+- [ ] Taskulamppu ja varaparisto
+- [ ] Virtapankki
 ** Työkalut
-- Linkkuveitsi
-- Naru
-- Puukko
-- Sytytysneste
-- Kaasupatruuna
-- Teippiä
-- Tulentekovälineet
+- [ ] Linkkuveitsi
+- [ ] Naru
+- [ ] Puukko
+- [ ] Sytytysneste
+- [ ] Kaasupatruuna
+- [ ] Teippiä
+- [ ] Tulentekovälineet
 * Tekstiilit
 ** Jalkineet
-- Hyvät kengät
-- Sukkia
-- Taukokengät (esim. "Crocs")
+- [ ] Hyvät kengät
+- [ ] Sukkia
+- [ ] Taukokengät (esim. "Crocs")
 ** Leiriytyminen
-- Istuma-alusta (esim. vaahtomuovinen)
-- Makuualusta (ilmatäyttöinen)
-- Makuupussi
-- Matkatyyny
-- Teltta
+- [ ] Istuma-alusta (esim. vaahtomuovinen)
+- [ ] Makuualusta (ilmatäyttöinen)
+- [ ] Makuupussi
+- [ ] Matkatyyny
+- [ ] Teltta
 ** Peseytyminen
-- Pyyhe
+- [ ] Pyyhe
 ** Vaatteet
-- Boksereita
-- Fleecepusero
-- Hanskat
-- Pitkät kalsarit
-- Pipo
-- Auringolta suojaava päähine
-- Sadetakki tai -viitta
-- Shortsit
-- Takki
-  + Talvi: untuvatakki
-  + Kesä: Kuoritakki
-- T-paita (2 kpl tekninen)
-- Verryttelyhousut
+- [ ] Boksereita
+- [ ] Fleecepusero
+- [ ] Hanskat
+- [ ] Pitkät kalsarit
+- [ ] Pipo
+- [ ] Auringolta suojaava päähine
+- [ ] Sadetakki tai -viitta
+- [ ] Shortsit
+- [ ] Takki
+  + [ ] Talvi: untuvatakki
+  + [ ] Kesä: Kuoritakki
+- [ ] T-paita (2 kpl tekninen)
+- [ ] Verryttelyhousut
