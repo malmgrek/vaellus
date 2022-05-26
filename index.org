@@ -2,9 +2,10 @@
 
 * Elintarvikkeita
 ** Juomat
+- [ ] Irtotee ja suodatin
+- [ ] Kahvia
 - [ ] Pikakahvia
 - [ ] Urheilujuomajauhe
-- [ ] Irtotee ja suodatin
 ** Ruoat
 - [ ] Digestive-keksejä
 - [ ] Kuivattuja hedelmiä
@@ -34,8 +35,8 @@
 - [ ] Särkylääke
 ** Juominen
 - [ ] Juomarakko
-- [ ] Vedenpuhdistin
 - [ ] Termospullo
+- [ ] Vedenpuhdistin
 ** Ruoan valmistaminen
 - [ ] Kahvikuppi
 - [ ] Kahvipannu
@@ -48,22 +49,27 @@
 - [ ] Aurinkolasit
 - [ ] Kartta
 - [ ] Latausjohto
+- [ ] Otsalamppu
 - [ ] Roskapussi
 - [ ] Taskulamppu ja varaparisto
-- [ ] Virtapankki
+- [ ] Varavirtalähde
 ** Työkalut
+- [ ] Kaasupatruuna
 - [ ] Linkkuveitsi
 - [ ] Naru
+- [ ] Neula ja lankaa
 - [ ] Puukko
 - [ ] Sytytysneste
-- [ ] Kaasupatruuna
 - [ ] Teippiä
 - [ ] Tulentekovälineet
 * Tekstiilit
+** Säilytys
+- [ ] Eriväriset pikkupussit
 ** Jalkineet
 - [ ] Hyvät kengät
 - [ ] Sukkia
 - [ ] Taukokengät (esim. "Crocs")
+- [ ] Varakengännauhat
 ** Leiriytyminen
 - [ ] Istuma-alusta (esim. vaahtomuovinen)
 - [ ] Makuualusta (ilmatäyttöinen)
