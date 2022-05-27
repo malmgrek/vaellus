@@ -2,12 +2,13 @@
 
 * Elintarvikkeita
 ** Juomat
-- [ ] Irtotee ja suodatin
+- [ ] Irtotee
 - [ ] Kahvia
 - [ ] Pikakahvia
 - [ ] Urheilujuomajauhe
 ** Ruoat
 - [ ] Digestive-keksejä
+- [ ] Grillimakkaraa
 - [ ] Kuivattuja hedelmiä
 - [ ] Makeisia
 - [ ] Nuudeleita
@@ -29,24 +30,29 @@
 - [ ] Tiskiharja
 - [ ] WC-paperia
 ** Lääkintä
-- [ ] Hirvikärpäs- ja punkkikarkoite
+- [ ] Hirvikärpäskarkoite
+- [ ] Hyönteiskarkoite
 - [ ] Laastaria
+- [ ] Punkkikarkoite
 - [ ] Rakkolaastari
 - [ ] Särkylääke
 ** Juominen
 - [ ] Juomarakko
+- [ ] Suodatinpusseja
+- [ ] Teesuodatin
 - [ ] Termospullo
 - [ ] Vedenpuhdistin
-** Ruoan valmistaminen
-- [ ] Kahvikuppi
-- [ ] Kahvipannu
-- [ ] Retkikeitin ja polttoaine
 ** Ruokailu
 - [ ] Haarukka
+- [ ] Kahvikuppi
+- [ ] Kahvipannu
 - [ ] Lusikka
+- [ ] Makkaratikku
+- [ ] Retkikeitin
 - [ ] Ruoka-astia
 ** Sekalaista
 - [ ] Aurinkolasit
+- [ ] Hyönteisverkko
 - [ ] Kartta
 - [ ] Latausjohto
 - [ ] Otsalamppu
