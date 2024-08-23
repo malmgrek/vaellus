@@ -55,12 +55,15 @@
 - [ ] Hyönteisverkko
 - [ ] Kartta
 - [ ] Latausjohto
+- [ ] Matkaradio
 - [ ] Otsalamppu
 - [ ] Roskapussi
 - [ ] Taskulamppu ja varaparisto
 - [ ] Varavirtalähde
+- [ ] Virveli + vieheitä
 ** Työkalut
 - [ ] Kaasupatruuna
+- [ ] Leirikinnas/tulihanska
 - [ ] Linkkuveitsi
 - [ ] Naru
 - [ ] Neula ja lankaa

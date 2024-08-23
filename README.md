@@ -9,6 +9,6 @@ Sivu on luotu Emacsin Org-mode paketin avulla ihmisen luettavan
 `index.org`-tiedoston pohjalta. Ohje:
 
 1. Määrittele muuttuja `(setq org-html-checkbox-type 'html)`.
-2. Kutsu `org-export-to-html`.
+2. Kutsu `org-html-export-to-html`.
 
 Tällöin ruksituslaatikot tulostuu oikein.
