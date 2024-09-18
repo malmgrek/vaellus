@@ -3,42 +3,42 @@
 * Elintarvikkeita
 ** Juomat
 - [ ] Irtotee
-- [ ] Kahvia
-- [ ] Pikakahvia
+- [ ] Kahvi
+- [ ] Pikakahvi
 - [ ] Urheilujuomajauhe
 ** Ruoat
-- [ ] Digestive-keksejä
-- [ ] Grillimakkaraa
-- [ ] Kuivattuja hedelmiä
-- [ ] Makeisia
-- [ ] Nuudeleita
-- [ ] Näkkileipää
-- [ ] Puuroa
-- [ ] Pähkinöitä
-- [ ] Riisisuklaata
-- [ ] Salamimakkaraa
+- [ ] Digestive-keksit
+- [ ] Grillimakkara
+- [ ] Kuivatut hedelmät
+- [ ] Makeiset
+- [ ] Nuudelit
+- [ ] Näkkileipä
+- [ ] Puuro
+- [ ] Pähkinät
+- [ ] Riisisuklaa
+- [ ] Salamimakkara
 * Rinkka
 - [ ] Sateensuoja
 * Tarvikkeet
 ** Hygienia
-- [ ] Deodoranttia
-- [ ] Desinfiointiainetta
+- [ ] Deodorantti
+- [ ] Desinfiointiaine
 - [ ] Hammasharja ja -tahna
-- [ ] Kosteuspyyhkeitä
-- [ ] Saippuaa
+- [ ] Kosteuspyyhkeet
+- [ ] Saippua
 - [ ] Tiskiaine
 - [ ] Tiskiharja
-- [ ] WC-paperia
+- [ ] WC-paperi
 ** Lääkintä
 - [ ] Hirvikärpäskarkoite
 - [ ] Hyönteiskarkoite
-- [ ] Laastaria
+- [ ] Laastari
 - [ ] Punkkikarkoite
 - [ ] Rakkolaastari
 - [ ] Särkylääke
 ** Juominen
 - [ ] Juomarakko
-- [ ] Suodatinpusseja
+- [ ] Suodatinpussut
 - [ ] Teesuodatin
 - [ ] Termospullo
 - [ ] Vedenpuhdistin
@@ -53,14 +53,14 @@
 ** Sekalaista
 - [ ] Aurinkolasit
 - [ ] Hyönteisverkko
-- [ ] Kartta
+- [ ] Kartta (tulostettu & laminoitu)
 - [ ] Latausjohto
 - [ ] Matkaradio
 - [ ] Otsalamppu
 - [ ] Roskapussi
 - [ ] Taskulamppu ja varaparisto
 - [ ] Varavirtalähde
-- [ ] Virveli + vieheitä + siimaa
+- [ ] Virveli + vieheet + siima
 ** Työkalut
 - [ ] Kaasupatruuna
 - [ ] Kirves
@@ -91,7 +91,7 @@
 ** Peseytyminen
 - [ ] Pyyhe
 ** Vaatteet
-- [ ] Boksereita
+- [ ] Bokserit
 - [ ] Fleecepusero
 - [ ] Hanskat
 - [ ] Pitkät kalsarit
