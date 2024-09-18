@@ -60,16 +60,19 @@
 - [ ] Roskapussi
 - [ ] Taskulamppu ja varaparisto
 - [ ] Varavirtalähde
-- [ ] Virveli + vieheitä
+- [ ] Virveli + vieheitä + siimaa
 ** Työkalut
 - [ ] Kaasupatruuna
+- [ ] Kirves
+- [ ] Kuumavesijohdin (pussi tai pullo)
 - [ ] Leirikinnas/tulihanska
 - [ ] Linkkuveitsi
-- [ ] Naru
+- [ ] Naru (paracord)
 - [ ] Neula ja lankaa
 - [ ] Puukko
+- [ ] Saha
 - [ ] Sytytysneste
-- [ ] Teippiä
+- [ ] Teippiä (ilmastointi)
 - [ ] Tulentekovälineet
 * Tekstiilit
 ** Säilytys
@@ -94,6 +97,7 @@
 - [ ] Pitkät kalsarit
 - [ ] Pipo
 - [ ] Auringolta suojaava päähine
+- [ ] Sadehousut
 - [ ] Sadetakki tai -viitta
 - [ ] Shortsit
 - [ ] Takki
